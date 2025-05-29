@@ -2,13 +2,9 @@
 A secure offline password generator with a simple GUI. Built using Python and tkinter, it uses the secrets module for strong password generation and stores the last 10 passwords in memory (not saved). Passwords are copied to clipboard automatically. No data is stored or sent online.
 
 
+**Created by Patrick Tierney (@mauserman98)** 
 
-
-SecurePassGen
-
-**Created by Patrick Tierney (@mauserman98 on GitHub)** 
-
-##Features:
+## Features:
 Generates secure passwords using random characters
 
 Automatically copies the password to your clipboard
@@ -17,14 +13,14 @@ Stores the last 10 passwords during your session
 
 Simple and easy-to-use interface
 
-##Notes:
+## Notes:
 Passwords are not saved once the program is closed
 
 This program does not connect to the internet or store any data externally
 
 You can view your last 10 generated passwords using the “View Last Passwords” button
 
-##How to Use:
+## How to Use:
 1)Download and unzip the file
 
 2)Double-click SecurePassGen.exe
