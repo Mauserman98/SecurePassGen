@@ -46,10 +46,6 @@ Use at your own discretion.
 
 
 
-[License]
-This project is free to use, modify, and share. Attribution is appreciated but not required.
-
----
 
 ## License
 
@@ -59,7 +55,7 @@ You are free to copy, modify, distribute, and use the project for any purpose, e
 
 
 
-Source Code(included with the file)
+## Source Code(included with the file)
 
 
     import secrets #import string and secrets module for secure random generation
