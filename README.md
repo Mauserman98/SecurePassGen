@@ -4,7 +4,7 @@ A secure offline password generator with a simple GUI. Built using Python and tk
 
 
 
-Source
+Source Code(included with the file)
 
 
     import secrets #import string and secrets module for secure random generation
@@ -70,7 +70,7 @@ Source
     view_last_button = tk.Button(root, text="View Last Generated Passwords", command=show_last_passwords)
     view_last_button.pack(pady=10)
 
-# Run the GUI
-root.mainloop()
+    # Run the GUI   
+    root.mainloop()
 
 
