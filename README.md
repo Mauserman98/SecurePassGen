@@ -4,6 +4,65 @@ A secure offline password generator with a simple GUI. Built using Python and tk
 
 
 
+SecurePassGen
+
+**Created by Patrick Tierney (@mauserman98 on GitHub)** 
+
+##Features:
+Generates secure passwords using random characters
+
+Automatically copies the password to your clipboard
+
+Stores the last 10 passwords during your session
+
+Simple and easy-to-use interface
+
+##Notes:
+Passwords are not saved once the program is closed
+
+This program does not connect to the internet or store any data externally
+
+You can view your last 10 generated passwords using the “View Last Passwords” button
+
+##How to Use:
+1)Download and unzip the file
+
+2)Double-click SecurePassGen.exe
+
+3)Enter the desired password length (minimum 8 characters)
+
+4)Click "Generate Password"
+
+5)Your new password will be shown and copied to your clipboard
+
+
+
+## Disclaimer
+
+While `SecurePassGen` uses the Python `secrets` module to ensure cryptographically secure randomization, **no password is truly unbreakable**. For best security, always combine strong passwords with other protection methods such as:
+
+- Two-Factor Authentication (2FA)
+- Account recovery tools
+- Up-to-date security software
+- Awareness of phishing and social engineering attacks
+
+Use at your own discretion.
+
+
+
+[License]
+This project is free to use, modify, and share. Attribution is appreciated but not required.
+
+---
+
+## License
+
+This project is licensed under a [Creative Commons Zero v1.0 Universal License (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/).
+
+You are free to copy, modify, distribute, and use the project for any purpose, even commercially, without asking permission.
+
+
+
 Source Code(included with the file)
 
 
